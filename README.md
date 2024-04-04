@@ -3,7 +3,7 @@
 
 - 🌱 Atualmente estou aprendendo **Python e Machine Learning**
 
-- 👯 Atualmente estou trabalhando na empresa **Hype Empreendimentos**
+- 👯 Atualmente estou trabalhando como Estagiário em Dados na empresa **Hype Empreendimentos**
 
 - 💬 Me pergunte sobre **SQL, Power BI, Excel, Power Query e Python**
 
